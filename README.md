@@ -1,0 +1,2 @@
+This assignment is about what is arror, bug and defect.and intoduction of Alpha testing ,beta testing,Exploratory testing,Boundry value testing,Functional system testing, Non-functional testing,GUI testing, Adhoc testing,Load testing and stress testing.
+and also Typese types of white box testing,different black box testing techniques,types of Performance testing.And In practical HLR and testcases are there.
